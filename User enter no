@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int no;
+    
+
+    cout<<"please enter a integer no ";
+    cin>>no;
+    cout<<" enter no is "<<no;
+    return 0;
+
+}
