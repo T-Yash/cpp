@@ -1,0 +1,12 @@
+
+#include <iostream> 
+using namespace std;
+       class books
+    { public: void newbook()
+     { cout << "newbook";
+     }
+     }; 
+    int main()
+     { books a;
+     a.newbook(); 
+return 0; }
