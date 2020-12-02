@@ -1,12 +1,12 @@
 
 #include <iostream> 
 using namespace std;
-       class books
-    { public: void newbook()
-     { cout << "newbook";
+       class library
+    { public: void books()
+     { cout << "books";
      }
      }; 
     int main()
-     { books a;
-     a.newbook(); 
+     { library a;
+     a.books(); 
 return 0; }
